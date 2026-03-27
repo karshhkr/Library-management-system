@@ -15,6 +15,8 @@ Users can securely log in and access features based on their assigned roles.
 
 ## ✨ Key Features
 
+
+
 ### 🔐 Authentication & Authorization
 - Role-based access control (ADMIN / USER)
 - Spring Security integration
